@@ -1,0 +1,2 @@
+(this.webpackJsonpnebicle=this.webpackJsonpnebicle||[]).push([[0],{10:function(e,c,t){"use strict";t.r(c);var n=t(1),s=t.n(n),i=t(3),r=t.n(i),a=(t(8),t.p+"static/media/moon-2021-03-26.f2bf7330.jpg"),o=(t.p,t(0));var j=function(){return Object(o.jsx)("div",{className:"App",children:Object(o.jsx)("div",{className:"center",children:Object(o.jsx)("img",{src:a,alt:"moon"})})})};r.a.render(Object(o.jsx)(s.a.StrictMode,{children:Object(o.jsx)(j,{})}),document.getElementById("root"))},8:function(e,c,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.4209d0cb.chunk.js.map
