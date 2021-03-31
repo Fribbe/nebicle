@@ -1,14 +1,12 @@
 import './App.css';
-import moonimg from './images/moon-2021-03-26.jpg'
-import moonimg2 from './images/moon-2021-03-29.png'
+import ImageSlider from './components/ImageSlider';
+import { SliderData } from './components/SliderData';
 
 
 function App() {
   return (
     <div className="App">
-      <div className="center">
-        <img src={moonimg} alt={'moon'}/>
-      </div>
+      <ImageSlider slides={SliderData}/>
     </div>
   );
 }
