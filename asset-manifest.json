@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nebicle/static/css/main.dfa1b5eb.chunk.css",
-    "main.js": "/nebicle/static/js/main.be86b0a7.chunk.js",
-    "main.js.map": "/nebicle/static/js/main.be86b0a7.chunk.js.map",
+    "main.js": "/nebicle/static/js/main.b4e75469.chunk.js",
+    "main.js.map": "/nebicle/static/js/main.b4e75469.chunk.js.map",
     "runtime-main.js": "/nebicle/static/js/runtime-main.accbe56b.js",
     "runtime-main.js.map": "/nebicle/static/js/runtime-main.accbe56b.js.map",
     "static/js/2.37efb861.chunk.js": "/nebicle/static/js/2.37efb861.chunk.js",
@@ -10,6 +10,7 @@
     "index.html": "/nebicle/index.html",
     "static/css/main.dfa1b5eb.chunk.css.map": "/nebicle/static/css/main.dfa1b5eb.chunk.css.map",
     "static/js/2.37efb861.chunk.js.LICENSE.txt": "/nebicle/static/js/2.37efb861.chunk.js.LICENSE.txt",
+    "static/media/NGC7000-2021-06-01.65c74296.jpg": "/nebicle/static/media/NGC7000-2021-06-01.65c74296.jpg",
     "static/media/chevron_left-white-18dp.177ee90b.svg": "/nebicle/static/media/chevron_left-white-18dp.177ee90b.svg",
     "static/media/chevron_right-white-18dp.37a12878.svg": "/nebicle/static/media/chevron_right-white-18dp.37a12878.svg",
     "static/media/moon-2021-03-26.f2bf7330.jpg": "/nebicle/static/media/moon-2021-03-26.f2bf7330.jpg",
@@ -20,6 +21,6 @@
     "static/js/runtime-main.accbe56b.js",
     "static/js/2.37efb861.chunk.js",
     "static/css/main.dfa1b5eb.chunk.css",
-    "static/js/main.be86b0a7.chunk.js"
+    "static/js/main.b4e75469.chunk.js"
   ]
 }
